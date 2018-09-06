@@ -24,7 +24,7 @@ import uk.co.techblue.postcodeanywhere.service.CapturePlusService;
 public class LookupServiceTest {
 
     /** The Constant POSTCODE_SERVICE_HOST_URI. */
-    private static final String POSTCODE_SERVICE_HOST_URI = "http://services.postcodeanywhere.co.uk";
+    private static final String POSTCODE_SERVICE_HOST_URI = "https://api.addressy.com";
 
     /** The Constant LICENSE_KEY. */
     private static final String LICENSE_KEY = "";
